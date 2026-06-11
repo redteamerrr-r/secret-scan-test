@@ -1,0 +1,2 @@
+DB_HOST=prod.internal.com
+DB_USER=admin
